@@ -1,7 +1,7 @@
 # 01 - Prácticas de introducción al Frontend
 Aquí se encuentran las prácticas de la primera semana del curso FullStack de LaunchX.
 
-1. Toma de requerimientos
+1. [Toma de requerimientos](https://github.com/elcadavere/Practicas_LaunchX/blob/main/01%20-%20Intro/1.%20Requerimientos.md)
 2. Buyer Persona
 3. Público objetivo
 4. Primer Wireframe UX
